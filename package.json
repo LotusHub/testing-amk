@@ -1,0 +1,28 @@
+{
+  "name": "steam",
+  "version": "0.0.2",
+  "description": "idler",
+  "main": "boost.coffee",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "chalk": "^1.0.0",
+    "inquirer": "^0.8.0",
+    "jsonfile": "^2.0.0",
+    "lodash": "^3.5.0",
+    "steam": "^0.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "X",
+    "url": "X"
+  },
+  "keywords": [
+    "idler",
+    "steam"
+  ],
+  "author": "me",
+  "license": "me"
+}
